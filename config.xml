@@ -3,7 +3,7 @@
   <name>24</name>
   <description>For Dad</description>
   <author email="gracie@meiman.com" >Creator</author>
-  <preference name="phonegap-version" value="cli-6.3.0" />
+  <preference name="phonegap-version" value="cli-6.5.0" />
   <preference name="permissions" value="none" />
   <preference name="orientation" value="portrait" />
   <preference name="target-device" value="universal" />
